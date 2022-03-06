@@ -1,1 +1,2 @@
-Hello this is a current test to make sure I can transfer over to github from git bash. No problem.
+Hello this is a current test to make sure I can transfer over to github from git bash.
+This is me using ubuntu to add changes.
